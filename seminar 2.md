@@ -40,14 +40,3 @@
 [2]: http://example.com/some
 [id]: http://example.com/links (Optional Title Here)
 [короткая запись]: http://example.com/short
-
-
-142
-143
-
-144
-145
-146
-147
-148
->>>>>>> inline_code
