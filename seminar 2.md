@@ -1,12 +1,7 @@
-[ссылка с title элементом]
-(http://example.com/link "Я ссылка"). Это — [без title]
-(http://example.com/link).
+Для вставки кода внутри предложений нужно заключать этот
+код в апострофы (на букве Ё). 
 
-А вот [пример][1] [нескольких][2] [ссылок][id] с
-разметкой как у сносок. Прокатит и [короткая запись][]
-без указания id.
+Пример: `<html class="ieno-js">`.
 
-[1]: http://example.com/ "Optional Title Here"
-[2]: http://example.com/some
-[id]: http://example.com/links (Optional Title Here)
-[короткая запись]: http://example.com/short
+Если внутри кода есть апостроф, то код надо обрамить
+двойными апострофами: ``There is a literal backtick (`) here.``
