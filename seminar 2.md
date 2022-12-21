@@ -9,8 +9,7 @@
 Пример: `<html class="ieno-js">`.
 
 Если внутри кода есть апостроф, то код надо обрамить
-двойными апострофами: ``There is a literal backtick (`)
-here.``
+двойными апострофами: ``There is a literal backtick (`) here.``
 
 ## Ссылки 
 
